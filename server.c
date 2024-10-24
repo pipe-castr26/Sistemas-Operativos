@@ -1,4 +1,4 @@
-
+#include <string.h>
 // Definimos el mismo archivo FIFO que el cliente para que ambos se comuniquen
 #define FIFO_FILE "/tmp/fifo_twoway"
 
